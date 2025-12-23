@@ -1,9 +1,9 @@
 # 🚀 GraphQL Express Server Template
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/graphql/graphql-branding/main/logos/graphql-logo.svg" width="140" alt="GraphQL Logo" />
+  <img src="https://graphql.org/img/logo.svg" width="140" alt="GraphQL Logo" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/static/images/logo.svg" width="160" alt="Node.js Logo" />
+  <img src="https://nodejs.org/static/images/logo.svg" width="160" alt="Node.js Logo" />
 </div>
 
 ---
